@@ -117,7 +117,7 @@ int main () {
 	Print(list);
 	printf("链表的第二个元素为： %d", GetData(list, 2));
 	system("pause");
-}
+
 
 
 #define n 11
